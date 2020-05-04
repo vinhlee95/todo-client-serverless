@@ -1,7 +1,7 @@
 {
-  "name": "react-parcel-boilerplate",
+  "name": "todo-client-serverless",
   "version": "1.0.0",
-  "description": "Template for a React project using Parcel as bundler",
+  "description": "Client app for Todo serverless project",
   "main": "index.js",
   "dependencies": {
     "react-dom": "16.13.1",
